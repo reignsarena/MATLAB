@@ -1,0 +1,8 @@
+a(x,y)=x-x^2/2+x*y^2
+b(x,y)=y-y^2/2+y*x^2
+c(x,y)=x^3-y^3
+x,y belongs to [-10 10] 
+Problem#
+i.draw surface.
+ii. plot a point on surface with red dot where x=2,y=3 along with corresponding isocurves.
+iii.draw normal vector of surface at P.
