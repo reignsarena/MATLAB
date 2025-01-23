@@ -1,0 +1,6 @@
+Problem#
+Let us consider the surface
+sin(x)+cos(y)/x-z
+1). Draw the surface! Draw the intersection of the surface with the xy plane.
+2). Draw the following plane with any color!
+ x-y+2z=5
