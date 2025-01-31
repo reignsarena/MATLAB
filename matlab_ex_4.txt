@@ -1,0 +1,9 @@
+Problem#
+Let us have curves
+ p(u) = (1−u) P1 +u P2
+ r(u) = (1−u) R1 +u R2
+ u ∈[0,1]
+where P1 = (0,0,0),P2 = (0,1,1), and R1 = (1,0,1), R2 = (1,1,0). Let us define the parametric surface as follows:
+ s(u,v) = (1 −v) p(u)+v r(u)
+ u ∈[0,1], v ∈ [0,1]
+Draw the given two curves and the given surface on the same figure.
