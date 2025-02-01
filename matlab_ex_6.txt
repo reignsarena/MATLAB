@@ -1,0 +1,3 @@
+Let us define the points P1 = (−2,−2),P2 = (4,0),P3 = (6,−2),P4 =(10,2). 
+i. Draw the Hermite arc that goes through these points at the parameter values −1,0,2,3 respectively.
+ii. Draw the tangent vector of the curve when t = 2
