@@ -1,0 +1,4 @@
+Problem#
+Let us define the points a P1 = (−2,−2),P2 = (6,−2), and vectors v1 = (6,−4) and v2 = (4,4).
+Draw the Hermite arc that goes through these points at the parameter values 0,1, and whose
+tangent vector at 0 is v1 and at 1 is v2
