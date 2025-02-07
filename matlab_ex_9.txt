@@ -1,0 +1,3 @@
+Problem#
+i. Draw a Bézier curve with the control points (10,20),(20,40),(40,40),(50,20), (20,10). 
+ii. Draw its tangent vectors at its beginning and at its end
